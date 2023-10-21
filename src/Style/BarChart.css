@@ -1,0 +1,7 @@
+/* BarChart.css */
+.nivo-bar text {
+  /* Custom styles for labels */
+  fill: red;
+  font-weight: bold;
+  /* Add more custom styles as needed */
+}

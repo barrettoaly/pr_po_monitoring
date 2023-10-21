@@ -1,0 +1,942 @@
+[33mcommit 71223872583e8d41c6357059a3f1bdfcd973fb4c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: = <112836461+ZCMCNur30@users.noreply.github.com>
+Date:   Mon Apr 24 10:54:08 2023 +0800
+
+    unfinished in responsive
+
+[33mcommit b402b2c51a015a6dd8c364fb435bea10112c3568[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Fri Apr 21 10:27:56 2023 +0800
+
+    uncommented hundlefetchapprove
+
+[33mcommit 02b6b56a395cb7f408a7254f7e2ffcb23e685594[m
+Merge: 53526a5 f1197c3
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Fri Apr 21 10:00:11 2023 +0800
+
+    Merge branch 'yana' of https://github.com/CIIS-ZCMC/pr-po-issuance-client
+
+[33mcommit 53526a5613a6c7bf07fc7a0d29a61d154b92eab1[m
+Merge: 8294594 04b8658
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Thu Apr 20 16:37:22 2023 +0800
+
+    Merge branch 'master' into caimor2
+
+[33mcommit 04b8658beb5a035879eb3f38674c2acc46564bee[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Thu Apr 20 15:46:09 2023 +0800
+
+    package
+
+[33mcommit 73e3a89444bbfd3950109c845efa3aabc1b87237[m
+Merge: 9bdb4c2 bd98d55
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Thu Apr 20 15:40:53 2023 +0800
+
+    Merge branch 'master' into dennis
+
+[33mcommit 9bdb4c25bc345e4431e2db4e6fcec7663518d220[m
+Merge: e8c73ea 9feb75b
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Thu Apr 20 15:23:37 2023 +0800
+
+    Merge branch 'kriz' of https://github.com/CIIS-ZCMC/pr-po-issuance-client into kriz
+
+[33mcommit bd98d55aa125f918a89cbc4c5fddf12723b82748[m
+Merge: 859ad72 8636b8d
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Thu Apr 20 15:15:45 2023 +0800
+
+    Merge branch 'master' of https://github.com/CIIS-ZCMC/pr-po-issuance-client
+
+[33mcommit f1197c328012fdd553c29e3bce1aa2aba93d49f8[m[33m ([m[1;31morigin/yana[m[33m)[m
+Merge: ca23957 8822f37
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Thu Apr 20 14:21:25 2023 +0800
+
+    Merge branch 'yana' of https://github.com/CIIS-ZCMC/pr-po-issuance-client into yana
+
+[33mcommit ca2395777134138f4eb554adf505b9a58d9f33fa[m
+Merge: 7857599 7044564
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Thu Apr 20 14:20:58 2023 +0800
+
+    Merge branch 'master' into yana
+
+[33mcommit 8636b8d66054d53caff593e61fe4ae7b2e231778[m
+Merge: 7044564 8822f37
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Thu Apr 20 14:20:20 2023 +0800
+
+    Merge pull request #17 from CIIS-ZCMC/yana
+    
+    yana
+
+[33mcommit 8822f3700e504050559cd18076187702d9183acc[m
+Merge: 7857599 7044564
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Thu Apr 20 14:20:01 2023 +0800
+
+    Merge branch 'master' into yana
+
+[33mcommit 7857599df95d8b95cc1a57861f45e7e2563555cf[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Thu Apr 20 14:19:02 2023 +0800
+
+    yana
+    
+    Edited the ff:
+    ApproveDataTable.jsx
+    PRDataTable.jsx
+    PRForm.jsx
+    StepperPR.jsx
+    TrackPR.jsx
+    PurhaseReuqests.jsx
+    ApprovePR.jsx
+
+[33mcommit 829459427344d6bb8ac594a28d6f97a5d5f98dff[m[33m ([m[1;31morigin/caimor2[m[33m)[m
+Author: ZCMCcaimor <zcmc.caimor@gmail.com>
+Date:   Thu Apr 20 14:06:17 2023 +0800
+
+    4.20
+
+[33mcommit 9feb75bc94a6fd043330239f2fdf1eb0244f4520[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Thu Apr 20 14:05:07 2023 +0800
+
+    MMS dashboard and PO
+
+[33mcommit 859ad7284e9d856c188ed9c855326408ee8ac29f[m[33m ([m[1;31morigin/dennis[m[33m)[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Thu Apr 20 13:47:58 2023 +0800
+
+    done for userlist, but for indexCheckox
+
+[33mcommit 13f78b951146e5ebfac1eb5da988c239d17ec846[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Apr 19 16:38:22 2023 +0800
+
+    partially done 60%
+
+[33mcommit 28979cad4e1f5cd642440ab8f48b86a836fc3b6a[m
+Author: ZCMCcaimor <zcmc.caimor@gmail.com>
+Date:   Wed Apr 19 16:18:48 2023 +0800
+
+    credemail
+
+[33mcommit 52d9567fae107bc6d82539ac9b3cf660a1816051[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Wed Apr 19 15:29:06 2023 +0800
+
+    MMS Dashboard (General)
+
+[33mcommit 2df26191afde68d4b9f802325d3badcba7c09702[m
+Author: ZCMCcaimor <zcmc.caimor@gmail.com>
+Date:   Wed Apr 19 13:34:23 2023 +0800
+
+    after merge by dennis
+
+[33mcommit e961f9b8b3bf83677453400a57c2c0eaf16df3d9[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Apr 19 13:30:19 2023 +0800
+
+    d
+
+[33mcommit 29246252a4bfced7728b7b857d6bb09614b85a71[m
+Merge: 11af529 7044564
+Author: ZCMCcaimor <zcmc.caimor@gmail.com>
+Date:   Wed Apr 19 13:28:57 2023 +0800
+
+    before merge from master
+
+[33mcommit 0205bd89b6d86378b360a4e3acf1d59db18e6425[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Tue Apr 18 16:50:20 2023 +0800
+
+    update dashboard
+
+[33mcommit e628e11956c0bee66f77b94d6fc473a756d6b897[m
+Merge: 0f36572 7044564
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Tue Apr 18 16:41:20 2023 +0800
+
+    partial done at userlist
+
+[33mcommit 11af529764f2050fc8aee87ef40ff73e26d1b601[m
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Tue Apr 18 14:54:23 2023 +0800
+
+    4.18
+
+[33mcommit 704456427184fc8810c0c89ddc1d6f797b5b39cc[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Tue Apr 18 11:07:56 2023 +0800
+
+    huhuhu
+
+[33mcommit bb130e6eaff2f83b276872c91f3c52061ac47811[m[33m ([m[1;31morigin/caimor[m[33m)[m
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Tue Apr 18 10:49:11 2023 +0800
+
+    s
+
+[33mcommit 0de5dd2ccb92273b68e437ad6e54e30ce47e2b90[m
+Merge: c8904b5 aa2646a
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Tue Apr 18 10:18:23 2023 +0800
+
+    try
+
+[33mcommit c8904b5541cc3a2e06be66cc900e9522ef919cdc[m
+Merge: 81c451e e9ef45f
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Tue Apr 18 10:14:22 2023 +0800
+
+    Merge branch 'Caimor' of https://github.com/CIIS-ZCMC/pr-po-issuance-client into caimor
+
+[33mcommit aa2646a53d9d082fab3b1dc1cf58273f586624f4[m
+Merge: 0546a35 06cced1
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Tue Apr 18 10:09:37 2023 +0800
+
+    Merge branch 'yana'
+
+[33mcommit 0f365721c51ffd76d92c2a0c46e9e6f808da5e93[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Tue Apr 18 10:05:58 2023 +0800
+
+    unfinish dennis
+
+[33mcommit 06cced18e5587280cb4c9958b00f72eccb2e8c63[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 17 16:56:01 2023 +0800
+
+    yana
+
+[33mcommit e9ef45f77e77c90c494342ead7596105fd9dcd71[m[33m ([m[1;31morigin/Caimor[m[33m)[m
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Mon Apr 17 16:34:01 2023 +0800
+
+    4.17
+
+[33mcommit 81c451ef53276cd572881b6dbf6534eea1e870da[m
+Merge: 143e3c9 e8c73ea
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 17 16:15:16 2023 +0800
+
+    cai branch
+
+[33mcommit e8c73ea32886de2f341e3b5d308ecf72cfa05d44[m
+Merge: 0546a35 2fe4b6c
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 17 15:13:36 2023 +0800
+
+    kriz updatae
+
+[33mcommit 911056b179bb0b8f3a094689ad7d5d3b03f2c495[m
+Merge: ccbd7fe 0546a35
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 17 15:11:29 2023 +0800
+
+    dennis temp
+
+[33mcommit 2fe4b6cef1692abc4f81026822eaa8808c35bd87[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Mon Apr 17 15:11:09 2023 +0800
+
+    Sidebar update
+
+[33mcommit 143e3c9828c455cd20b925916f4c02522c6b0903[m
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Mon Apr 17 15:10:46 2023 +0800
+
+    awww PR
+
+[33mcommit 0546a355ccf63bf98a7360a472821c8a781457a5[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 17 14:26:19 2023 +0800
+
+    toinks
+
+[33mcommit 5de82f879fb4cd7ad8c9a338100a4f54b9ef88be[m
+Merge: d6476b1 8f3e422
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 17 14:20:31 2023 +0800
+
+    sss
+
+[33mcommit d6476b11a7364e14b5fb6b760edd97a15ceac287[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 17 14:19:40 2023 +0800
+
+    denz
+
+[33mcommit 8f3e422b44ee1ce8c382bb5ff6ceea7465143546[m
+Merge: a4f1bc9 57023e8
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Mon Apr 17 14:08:18 2023 +0800
+
+    Merge pull request #16 from CIIS-ZCMC/yana
+    
+    Yana
+
+[33mcommit 57023e81786aa3caaccba73e539d5e46d16c6067[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 17 14:06:19 2023 +0800
+
+    yana
+
+[33mcommit 7bb2598ee91a91cb12fe69c8bb98720e8dec5767[m
+Merge: 1126ff3 a4f1bc9
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 17 11:35:36 2023 +0800
+
+    Merge branch 'master' into yana
+
+[33mcommit 1126ff353220e74075ea1f76cf9057dfe775fdcd[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 17 11:33:34 2023 +0800
+
+    yana
+
+[33mcommit a4f1bc9a3afd3bc2a98ee565f5e790e4fd261c6c[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 17 11:32:34 2023 +0800
+
+    partially merged, expect small problem.
+
+[33mcommit c6966939d621cc7206ee71ebd6be91f15ba55fe1[m
+Merge: c0bd87a 860efe6
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 17 11:14:17 2023 +0800
+
+    Merge branch 'Caimor'
+
+[33mcommit c0bd87ae99024fef5de8c91af9364d1a11e3e8e7[m
+Merge: a6b05e2 e94de54
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 17 08:56:59 2023 +0800
+
+    Merge remote-tracking branch 'origin/kriz'
+    with some changes Deleted ApprovedPR module by yana
+
+[33mcommit a6b05e2f325f9d3b3a8c77a6fbce8cff981d834e[m
+Merge: 768e80b d21fb5c
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 17 08:49:52 2023 +0800
+
+    Merge remote-tracking branch 'origin/yana'
+
+[33mcommit ccbd7fed54bcd3e2fc57ca01e91dd4a4e5b8162b[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 17 08:48:51 2023 +0800
+
+    dennis
+
+[33mcommit d21fb5cacf67bba325359855bbec1434fffc8439[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 17 08:48:14 2023 +0800
+
+    yana
+
+[33mcommit de5e432f01c70cca72c79fdbeba942503b9e3a66[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Sat Apr 15 15:40:46 2023 +0800
+
+    yana
+
+[33mcommit ec579b4f0aedfa3ea11524fd620ff619b979cfd1[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Sat Apr 15 10:54:26 2023 +0800
+
+    yana
+
+[33mcommit ff9502bce7c988a5499ec4fcd3816387f987ff26[m
+Author: = <112836461+ZCMCNur30@users.noreply.github.com>
+Date:   Sat Apr 15 08:17:46 2023 +0800
+
+    partially done on userlist module
+
+[33mcommit 9d3280c4ab3ad91c86f20a9fba86d4bd46ef9370[m
+Merge: 9b9b440 e953ab0
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Fri Apr 14 16:43:00 2023 +0800
+
+    Merge branch 'yana' of https://github.com/CIIS-ZCMC/pr-po-issuance-client into yana
+
+[33mcommit 9b9b440df859357c6709dc1a701717b2751c8e7e[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Fri Apr 14 16:42:22 2023 +0800
+
+    yana
+
+[33mcommit 860efe6b33f6a0b19274c9d5c4454386d99d0fe3[m
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Fri Apr 14 16:40:59 2023 +0800
+
+    14.4
+
+[33mcommit 4907667cc3368c4bcb97f0355dd604be6f2b34ca[m
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Thu Apr 13 16:21:22 2023 +0800
+
+    umanagement template done
+
+[33mcommit 0a121b026a2d2f1673f2fc9eed40fa97727f28ad[m
+Merge: 023fc47 e94de54
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Thu Apr 13 08:25:08 2023 +0800
+
+    merge w/kriz
+
+[33mcommit 023fc47512995450e9fdd09af8a7906f294fe337[m
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Thu Apr 13 08:20:29 2023 +0800
+
+    f
+
+[33mcommit 84a3debdd335aa6fc2e8ca9d21728e10c1a41789[m
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Thu Apr 13 08:18:07 2023 +0800
+
+    merge fix
+
+[33mcommit e4b7a41abbee873b42d190e4dc733f769f288647[m
+Merge: afd61fd 768e80b
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Thu Apr 13 08:16:01 2023 +0800
+
+    merge w/ master
+
+[33mcommit afd61fdb6d63cd1d87713d88df2a6c34027fee03[m
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Thu Apr 13 08:13:49 2023 +0800
+
+    2
+
+[33mcommit e94de547b036679e75fb2d324fbfe7acba5d994a[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Wed Apr 12 16:22:36 2023 +0800
+
+    Login and Signup
+
+[33mcommit 61554db1d19acaa1e3f7e85906d95f9b30a4b44e[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Tue Apr 11 16:59:12 2023 +0800
+
+    update today
+
+[33mcommit 5d6935b6f00aa89d740e63a7fdeba516700bb65a[m
+Merge: 600b3a4 358e3a0
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Tue Apr 11 13:28:48 2023 +0800
+
+    Merge branch 'master' into yana
+
+[33mcommit 768e80b77bdd357947d64a4c95d463285bbddb62[m
+Merge: 358e3a0 e953ab0
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Tue Apr 11 13:28:22 2023 +0800
+
+    Merge pull request #15 from CIIS-ZCMC/yana
+    
+    yana
+
+[33mcommit e953ab006ed0013255ca12887bf137601645d76e[m
+Merge: 600b3a4 358e3a0
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Tue Apr 11 13:28:11 2023 +0800
+
+    Merge branch 'master' into yana
+
+[33mcommit 600b3a428657b20f9e34ae2a0bc5f006c1ffcdde[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Tue Apr 11 13:27:30 2023 +0800
+
+    yana
+
+[33mcommit 358e3a00880dbc9bb379031cccb695c5b7ebd512[m
+Merge: 811ca22 0355ae6
+Author: Krizelle Mae Falcasantos - ZCMC <108104159+krizellezcmc@users.noreply.github.com>
+Date:   Tue Apr 11 13:27:08 2023 +0800
+
+    Merge pull request #14 from CIIS-ZCMC/kriz
+    
+    Kriz
+
+[33mcommit 0355ae63f53179efb8031106a5f916e8de4507a0[m
+Merge: c2559d6 811ca22
+Author: Krizelle Mae Falcasantos - ZCMC <108104159+krizellezcmc@users.noreply.github.com>
+Date:   Tue Apr 11 13:26:58 2023 +0800
+
+    Merge branch 'master' into kriz
+
+[33mcommit c2559d628f470785e36e3898c273dc577733aaca[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Tue Apr 11 13:23:38 2023 +0800
+
+    Login and signup
+
+[33mcommit 9cb05a1767d4a95ced77cc2cbe3e83c03276fd92[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Tue Apr 11 08:09:31 2023 +0800
+
+    krizelle today
+
+[33mcommit 811ca2241df5c8c391f13424ad6d6232b83b2c71[m
+Merge: ca43c92 ea2edb5
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Mon Apr 10 16:52:44 2023 +0800
+
+    Merge pull request #13 from CIIS-ZCMC/yana
+    
+    Yana
+
+[33mcommit ea2edb54c281466ac86a4b4199401621e2b6cd88[m
+Merge: 94e4496 a548291
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 10 16:52:28 2023 +0800
+
+    Merge branch 'yana' of https://github.com/CIIS-ZCMC/pr-po-issuance-client into yana
+
+[33mcommit 94e4496c42ff14caee25f3d884ed9a352122a792[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 10 16:49:55 2023 +0800
+
+    yana 4/10/2023
+
+[33mcommit 2efd14e197c05de004151d3e8ae0d78a65d557e0[m
+Merge: 27474f5 bb6ea02
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 10 16:37:29 2023 +0800
+
+    Merge branch 'master' into yana
+
+[33mcommit ca43c9276074a5a9d30cddee1bb542e50c8c8291[m
+Merge: bb6ea02 a548291
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Mon Apr 10 16:35:03 2023 +0800
+
+    Merge pull request #12 from CIIS-ZCMC/yana
+    
+    Yana
+
+[33mcommit a5482917361f04054d2ae02d2b4e4076fb94dd57[m
+Merge: 27474f5 bb6ea02
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Mon Apr 10 16:34:54 2023 +0800
+
+    Merge branch 'master' into yana
+
+[33mcommit 27474f52d57894dee8a4810eae9cf37d033c6613[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 10 16:33:57 2023 +0800
+
+    yana
+
+[33mcommit bb6ea0260006cf91bd03f536941baa13bbdb2697[m
+Merge: 1eda53d a26ca87
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 10 16:29:03 2023 +0800
+
+    Merge branch 'master' of https://github.com/CIIS-ZCMC/pr-po-issuance-client
+
+[33mcommit 1eda53d2063b7d0b0958ce63b4c85c71a88b6aab[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 10 16:28:07 2023 +0800
+
+    new sidenav design
+
+[33mcommit a421f35dc781def9e77bbc18b51432ff70fcdc6b[m
+Merge: 47fe211 0981ae4
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 10 15:30:14 2023 +0800
+
+    Merge branch 'master' into yana
+
+[33mcommit a26ca87b494e86bf97b12f193f3347b7e7273f71[m
+Merge: 1102cf9 79edebf
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Mon Apr 10 15:29:54 2023 +0800
+
+    Merge pull request #11 from CIIS-ZCMC/revert-10-yana
+    
+    Revert "yana"
+
+[33mcommit 79edebf2a342e7744dc650fb1b4ec8c45edd0d55[m[33m ([m[1;31morigin/revert-10-yana[m[33m)[m
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Mon Apr 10 15:29:19 2023 +0800
+
+    Revert "yana"
+
+[33mcommit 1102cf933f501a95d813aae6780f556b22529f97[m
+Merge: 0981ae4 47fe211
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Mon Apr 10 15:28:44 2023 +0800
+
+    Merge pull request #10 from CIIS-ZCMC/yana
+    
+    yana
+
+[33mcommit 47fe211fa181872765b450c10264af14d780e64a[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 10 15:28:15 2023 +0800
+
+    yana
+
+[33mcommit 0981ae42660b0b91cec1c9da2a2b4aad1976e7aa[m
+Merge: 57fbba9 57f25b4
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 10 13:21:51 2023 +0800
+
+    merge master to yana
+
+[33mcommit 57fbba95744b2939224fca6e6dcc2391e2433908[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 10 08:17:21 2023 +0800
+
+    yana
+
+[33mcommit 30c12448eb5afcf43117c6c61d4476aa44786a31[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Wed Apr 5 11:57:14 2023 +0800
+
+    yana 4/5/2023
+
+[33mcommit 6316e0e7c882355386665116d80fcfdf7726b205[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Wed Apr 5 11:49:08 2023 +0800
+
+    Upload file
+
+[33mcommit 57f25b45f8778d4a95527082d7800d70f40b4535[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Apr 5 09:36:58 2023 +0800
+
+    app modify
+
+[33mcommit 80843dbf5fbae1286c04d53f6555cafdfcde610c[m
+Merge: 0537216 a85cd69
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Apr 5 09:33:17 2023 +0800
+
+    merge from origin master
+
+[33mcommit 053721603e4b6d0833539939bd466b96d0af8e61[m
+Merge: 6df9490 187a219
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Apr 5 09:26:33 2023 +0800
+
+    small changes again pewss
+
+[33mcommit 6df9490a4cd6bfc874660a6fae70b0e31295e124[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Apr 5 09:24:54 2023 +0800
+
+    small changes
+
+[33mcommit 187a219eb4214ac6290980825b6beabd4c546abf[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Apr 5 09:22:46 2023 +0800
+
+    small change
+
+[33mcommit 2522f8c4053c45a9b32b6b7c8af43d56f36e8bd9[m
+Merge: 34000f4 630c456
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Apr 5 09:21:24 2023 +0800
+
+    Merge branch 'dennis2' into kriz
+
+[33mcommit 34000f4895d2d0b46fb8b15db0a2068bf9713025[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Apr 5 09:19:05 2023 +0800
+
+    accept changes by Dennis
+
+[33mcommit 630c45664385a2a77650d502e92c7b4beefd04b1[m
+Merge: b35da68 28d4276
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Apr 5 09:09:30 2023 +0800
+
+    merged and modify frrom kriz
+
+[33mcommit b35da689c7df7963688d627b5f82331e0a694214[m
+Merge: 75165ae 8f9fa59
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Apr 5 08:38:03 2023 +0800
+
+    Merge branch 'master' into dennis2
+
+[33mcommit ac58da26c1e90628955e7564d85988cb37459695[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Tue Apr 4 16:56:33 2023 +0800
+
+    04/04/2023
+
+[33mcommit 28d4276f7c234df32ba0a76cebe6362aeb44a62c[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Tue Apr 4 16:45:46 2023 +0800
+
+    Update for login and signup
+    
+    Dept list nalang and polish sa sign up
+
+[33mcommit 75165ae5e1542d1a790f00bc9cd5f4f5511c8dd3[m[33m ([m[1;31morigin/dennis2[m[33m)[m
+Author: DevOne95 <tristan.zcmc@gmail.com>
+Date:   Tue Apr 4 15:44:51 2023 +0800
+
+    help by tjay
+
+[33mcommit a8259cbd39f1b32bc6dd50e1d01965e0501bc1a3[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Tue Apr 4 10:10:41 2023 +0800
+
+    update signup
+
+[33mcommit f855dc35472de7c56d7891818384cbc10a6bc050[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Mon Apr 3 16:59:00 2023 +0800
+
+    Krizelle Login
+
+[33mcommit ebe699566aa7f18a60803ada22b63c8169d80107[m
+Merge: 2e1cb8a 0535226
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 3 16:41:00 2023 +0800
+
+    Merge branch 'master' into yana
+
+[33mcommit a85cd69ad1a6ce3f09e603f3dd49584f5d0eb3f6[m
+Merge: 0535226 2e1cb8a
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Mon Apr 3 16:40:47 2023 +0800
+
+    Merge pull request #9 from CIIS-ZCMC/yana
+    
+    yana
+
+[33mcommit 2e1cb8a6efea85edb7e77d2014a7f43acd32d1f9[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 3 16:40:20 2023 +0800
+
+    yana
+
+[33mcommit 05352267661a1000509d217f64a53cd3d4a31170[m
+Merge: 44554de fd0ae45
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Mon Apr 3 16:39:26 2023 +0800
+
+    Merge pull request #8 from CIIS-ZCMC/yana
+    
+    Yana
+
+[33mcommit fd0ae45465472a2f51b25c5be1ea6438764f069b[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 3 16:38:34 2023 +0800
+
+    yana
+
+[33mcommit 6442807920abb4c4804ba8d82db33cf1e38ceb75[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Mon Apr 3 16:12:27 2023 +0800
+
+    POST Request for login
+
+[33mcommit 16fd2c4fcb77261352c742cbe56ca6ed5c8b6292[m
+Author: TjayAmit <112836461+ZCMCNur30@users.noreply.github.com>
+Date:   Mon Apr 3 16:04:37 2023 +0800
+
+    unfinish protected routes
+
+[33mcommit 5899b585575a814bf2dca115c96948abd4d394f7[m
+Author: ZCMCCaimor <zcmc.caimor@gmail.com>
+Date:   Mon Apr 3 14:29:25 2023 +0800
+
+    googlelogin implimented
+
+[33mcommit 8c7fb4db0f44e3184a42bee77923f166c526532c[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 3 14:27:53 2023 +0800
+
+    yana
+
+[33mcommit b56886d64cc299df946c4f8694a3c8767648c9a9[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Mon Apr 3 14:20:38 2023 +0800
+
+    Login ang signup update
+
+[33mcommit 363af1df420eb87ef062ae536b190b4b3b97a3a8[m
+Author: TjayAmit <112836461+ZCMCNur30@users.noreply.github.com>
+Date:   Mon Apr 3 14:20:18 2023 +0800
+
+    typograohy
+
+[33mcommit 44554de025371b26a5653bef10b3e759427d1188[m
+Merge: 67c559a 15e38d1
+Author: Krizelle Mae Falcasantos - ZCMC <108104159+krizellezcmc@users.noreply.github.com>
+Date:   Mon Apr 3 11:12:18 2023 +0800
+
+    Merge pull request #7 from CIIS-ZCMC/kriz
+    
+    Push login to master from kriz
+
+[33mcommit 15e38d1b996f48886bc53e2f1299412745987330[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Mon Apr 3 11:11:19 2023 +0800
+
+    Login updat from kriz
+
+[33mcommit 67c559a3bb28b92a838fac2987fe14a11002b27e[m[33m ([m[1;31morigin/nur[m[33m)[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Mon Apr 3 11:05:24 2023 +0800
+
+    Krizelle
+
+[33mcommit 54d2fabf7da398cb46676d6d4299e088df91b3af[m
+Merge: c8fa01a d07ae6f
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Mon Apr 3 10:59:55 2023 +0800
+
+    Merge branch 'master' into nur
+
+[33mcommit c8fa01a86a76d1ca1ce108d31158244585fb4c1c[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Mon Apr 3 10:57:21 2023 +0800
+
+    Krizelle - update login and signup
+
+[33mcommit d07ae6f70a0d709762fafe05663230cdf3c1e95d[m
+Merge: b774752 0a6dbc5
+Author: Alyana Barretto <108104435+alyb-zcmc@users.noreply.github.com>
+Date:   Mon Apr 3 09:25:09 2023 +0800
+
+    Merge pull request #6 from CIIS-ZCMC/yana
+    
+    yana
+
+[33mcommit 0a6dbc58ff6bf6fa492a526c45fcf86775b97c49[m
+Merge: 0c0f349 b774752
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 3 09:24:48 2023 +0800
+
+    Merge branch 'master' of https://github.com/CIIS-ZCMC/pr-po-issuance-client into yana
+
+[33mcommit 0c0f3494205eda6daf7ccd910deb47ada9a646e5[m
+Author: Alyana Barretto <alyanabarretto.zcmc@gmail.com>
+Date:   Mon Apr 3 09:16:18 2023 +0800
+
+    yana
+
+[33mcommit b774752410c3b948a5526628facb31c1d0914880[m
+Merge: 05e9942 9a012b8
+Author: aseyte <34338875+aseyte@users.noreply.github.com>
+Date:   Mon Apr 3 03:41:44 2023 +0800
+
+    Merge pull request #5 from CIIS-ZCMC/dennis2
+    
+    initial done
+
+[33mcommit 05e99425f051cfd0cf31525f052af387b8cfb255[m
+Merge: 8f9fa59 9e546aa
+Author: aseyte <34338875+aseyte@users.noreply.github.com>
+Date:   Mon Apr 3 03:37:47 2023 +0800
+
+    Merge pull request #4 from CIIS-ZCMC/dennis
+    
+    Dennis
+
+[33mcommit 9a012b80c5452f5ad835f825aa25acaaedfa3635[m
+Author: dennis <dennisfalcasantosnatividad@gmail.com>
+Date:   Mon Apr 3 03:31:32 2023 +0800
+
+    initial done
+
+[33mcommit 9e546aace2513fc120ae0cac38704943c58a7977[m
+Merge: 0978e81 e50309d
+Author: dennis <dennisfalcasantosnatividad@gmail.com>
+Date:   Sun Apr 2 12:19:38 2023 +0800
+
+    errors
+
+[33mcommit e50309d95e24913e4887c69fe54916715c01adb9[m
+Merge: 3496267 b1d12f6
+Author: aseyte2 <dennisfalcasantosnatividad@gmail.com>
+Date:   Fri Mar 31 10:18:35 2023 +0800
+
+    temp
+
+[33mcommit 0978e8190df54ca6093158c095f65bc1d1948863[m
+Merge: 3496267 b1d12f6
+Author: dennis <dennisfalcasantosnatividad@gmail.com>
+Date:   Thu Mar 30 21:25:21 2023 +0800
+
+    done merge from krizel to dennis
+
+[33mcommit e4dca45cc3ef80fd2f9c0fc6a7d509c7a30e66f0[m
+Author: TjayAmit <112836461+ZCMCNur30@users.noreply.github.com>
+Date:   Thu Mar 30 16:46:49 2023 +0800
+
+    Added SignUp Page
+
+[33mcommit 644e1769ea86e239885d17afb0392c8c18752ae8[m
+Merge: fd399ef b1d12f6
+Author: TjayAmit <112836461+ZCMCNur30@users.noreply.github.com>
+Date:   Thu Mar 30 12:11:53 2023 +0800
+
+    Merge branch 'kriz' into nur
+
+[33mcommit fd399ef6fe548dc5a110436220f2c5853909c743[m
+Merge: 259751f 8f9fa59
+Author: TjayAmit <112836461+ZCMCNur30@users.noreply.github.com>
+Date:   Thu Mar 30 09:36:56 2023 +0800
+
+    Merge branch 'master' into nur
+
+[33mcommit b1d12f637d28bf5b885013cc9ea94fd49a4a9f09[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Wed Mar 29 16:58:22 2023 +0800
+
+    Login update
+
+[33mcommit 3496267fcdcfe188e83d8a01bef6f0337c6f943c[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Wed Mar 29 16:15:38 2023 +0800
+
+    60% done on sidebar
+
+[33mcommit 259751f148181b0709103f5437d8882331f3d408[m
+Author: TjayAmit <108126017+DjeeProgx3019@users.noreply.github.com>
+Date:   Wed Mar 29 15:01:22 2023 +0800
+
+    updated
+
+[33mcommit 3e60b9d0871a5f837904383a0bba075efa0a1017[m
+Author: dennis falcasantos <dennisfalcasantosnatividad@gmail.com>
+Date:   Tue Mar 28 16:40:22 2023 +0800
+
+    ContextProvider and partially done on sidenav
+
+[33mcommit 8f9fa59d1a6e1a6d38137771df279c35d5187af3[m
+Merge: a610209 6f2ddbe
+Author: Krizelle Mae Falcasantos - ZCMC <108104159+krizellezcmc@users.noreply.github.com>
+Date:   Tue Mar 28 08:51:03 2023 +0800
+
+    Merge pull request #1 from CIIS-ZCMC/kriz
+    
+    setup
+
+[33mcommit 6f2ddbe0d9726e594b69a8816a7ef85f8a1bed05[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Tue Mar 28 08:50:16 2023 +0800
+
+    setup
+
+[33mcommit a610209e3e4dfa97300f63c643c2df824acb5c94[m
+Author: Krizelle Mae Falcasantos - ZCMC <kmfalcasantos.zcmc@gmail.com>
+Date:   Tue Mar 28 08:20:44 2023 +0800
+
+    First commit
